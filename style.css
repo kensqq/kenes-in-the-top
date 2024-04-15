@@ -1,0 +1,95 @@
+header{
+    height: 200px;
+    background-image: url(https://cdn.nur.kz/images/1120x630/98f8e10c6bdbdc6e.jpeg);
+    padding-top: 20px;
+    color: rgb(0, 0, 0);
+}
+
+body{
+    margin: 0;
+    background-color:beige;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.block1{
+    display: flex;
+    background-color: rgb(255, 123, 0);
+
+}
+
+.block2{
+    width: 50%;
+    padding: 30px;
+}
+
+.block3{
+    width: 50%;
+    padding: 30px;
+    background-color: rgba(241, 181, 61, 0.797);
+    text-align: justify;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+.b1{
+    width: 100%;
+    display: flex;
+}
+
+.b2{
+    width: 100%;
+}
+
+.block4{
+    width: 50%;
+    text-align: justify;
+    padding: 25px 20px; 
+    background-color: chocolate;
+}
+
+.block4 p {
+    margin: 0;
+}
+.block5{
+    width: 50%;
+    padding:20px 10px ;
+    background-color: rgba(255, 208, 0, 0.737);
+}
+
+.block5 img{
+    width: 100%;
+}
+footer{
+    padding-left: 20px;
+    text-align: center;
+    background-color: rgb(255, 200, 0);
+    text-align: justify;
+    display: flex;
+    padding-bottom: 50px;
+    padding: 30px;
+
+}
+.qq4{
+   height: 50px; 
+   padding-left: 150px;
+}
+.qq2{
+    padding-top: 10px;
+    padding-left: 130px;
+}
+.qq3{
+    padding-top: 10px;
+    padding-left: 140px;
+}
+    
+
+
+
+    
+    
+    
